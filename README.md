@@ -11,8 +11,6 @@ An early VBEM approach, based on an AR1 linear model, was published in:
 
 > *A Survey of Statistical Models for Reverse Engineering Gene Regulatory Networks*, 2009, DOI: [10.1109/MSP.2008.930647](http://dx.doi.org/10.1109%2FMSP.2008.930647)
 
-This current version improves the previous approach by introducing an AR1MA1 linear model that fits better the noisy nature of the data. We are updating the current version of the AR1MA1-VBEM method to (*i*) handle RNA-Seq as well as microarray data and (*ii*) to improve it with a user interface.
-
-Hopefully, a new publication in a well rated journal will be released soon.
+This current version improves the previous approach by introducing an AR1MA1 linear model that fits better the noisy nature of the data. We are updating the current version of the method to (*i*) handle RNA-Seq as well as microarray data and (*ii*) to improve it with a friendly user-interface. Hopefully, a new publication in a well rated journal will be released soon.
 
 
