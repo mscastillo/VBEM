@@ -1,5 +1,5 @@
-AR1MA1-VBEM
-===========
+VBEM
+====
 
 This repository includes some MATLAB scripts comprising the core algorithms of the AR1MA1-VBEM method described in the 4th chapter of my PhD dissertation, entitled:
 
